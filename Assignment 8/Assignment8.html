@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment 8 By Tanishq Ahuja</title>
+</head>
+<body bgcolor="#8B8799">
+    <h1>My Bio Data</h1>
+    <form>
+        <fieldset>
+            <legend>Personal Information</legend>
+            <label for="FName">First Name: </label>
+            <input type="text" id="FName" placeholder="First Name">
+            <label for="LName">Last Name: </label>
+            <input type="text" id="LName" placeholder="Last Name">
+            <br><br>
+            <label for="Gender">Gender: </label>
+            <input type="radio" name="Gender" id="Gender"><b>&lt;</b> Male
+            <input type="radio" name="Gender" id="Gender"><b>&lt;</b> Female
+            <input type="radio" name="Gender" id="Gender"><b>&lt;</b> Other
+            <br><br>
+            <label for="DOB">Date Of Birth: </label>
+            <input type="date" id="DOB">
+            <br><br>
+            <label for="EMail">E-Mail: </label>
+            <input type="email" id="EMail" placeholder="abc@gmail.com">
+            <br><br>
+            <label for="Phone">Phone</label>
+            <input type="tel" id = "Phone"pattern = "[1-9]{1} [0-9]{9]}" placeholder="+91">
+            <br><br>
+            <label for="Height">Height</label>
+            <input type="text" id="Height">
+        </fieldset>
+        <br>
+        <fieldset>
+            <legend>Education</legend>
+            <label for="SName">School Name: </label>
+            <input type="text" name="SName" id="SName" placeholder="Your School Name">
+            <br><br>
+            <label for="Class">Class: </label>
+            <input type="text" name="Class" id="Class" placeholder="Your Class">
+            <br><br>
+            <label for="Stream">Stream: </label>
+            <select name="Stream" id="Stream">
+                <option value="Stream">Stream</option>
+                <option value="Stream">Medical</option>
+                <option value="Stream">Non-Medical</option>
+                <option value="Stream">Humanities</option>
+            </select>
+            <br><br>
+            <label for="MSheet">Marksheet: </label>
+            <input type="file" name="MSheet" id="MSheet">
+        </fieldset><br>
+        <input type="submit" name="submit" id="submit">
+    </form>
+</body>
+</html>
