@@ -1,0 +1,53 @@
+#good{
+    color: red;
+    font-style: italic;
+    text-decoration: underline;
+}
+#food{
+    color: blue;
+    font-style: italic;
+    text-decoration: underline;
+}
+#veg{
+    color: purple;
+    font-style: italic;
+}
+#p1e1{
+    color: red;
+    text-decoration: underline;
+}
+#p1e2{
+    color: rgb(7, 181, 181);
+    text-decoration: underline;
+}
+#cake{
+    color: purple;
+    font-style: italic;
+}
+#p2e1{
+    color: purple;
+}
+#p2e2{
+    color: red;
+}
+#p2e3{
+    color: rgb(72, 255, 0);
+}
+#p3{
+    color: green;
+}
+#p4{
+    color: yellowgreen;
+}
+#p4e1{
+    color: rgb(255, 0, 183);
+}
+#p5{
+    color: green;
+}
+#p6{
+    color: yellowgreen;
+}
+#p6e1{
+    color: rgb(255, 0, 183);
+}
