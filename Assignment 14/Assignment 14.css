@@ -1,0 +1,28 @@
+body{
+    background-color: chartreuse;
+    border-color:rgb(85,171,142);
+    border-width: 20px;
+    border-style: ridge;
+    margin: 0%;
+}
+hr{
+    border-top: 10px double green; 
+}
+.part1{
+    text-align: center;
+}
+.part1 img{
+    border-width: 10px;
+    border-color: red;
+    border-style: dashed;
+    border-radius: 50px;
+}
+.part2{
+    text-align: center;
+}
+.part2 img{
+    border-width: 10px;
+    border-color: red;
+    border-style: dashed;
+    border-radius: 50px;
+}
