@@ -1,0 +1,18 @@
+body{
+    font-family: cursive;
+    font-size: larger;
+}
+a:visited{
+    color: blue;
+}
+.thank{
+    background-color: antiquewhite;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 2%;
+    padding-top: 1%;
+    border-color: red;
+    border-radius: 20%;
+    border-width: 10px;
+    border-style: double;
+}
