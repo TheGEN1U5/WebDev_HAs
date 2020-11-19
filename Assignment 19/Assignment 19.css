@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    color: white;
+}
+.card1{
+    background-color: cyan;
+    height: 360px;
+    width: 300px;
+    text-align: center;
+    color: black;
+    align-items: center;
+    border-radius: 50px;
+    box-shadow: 20px 10px 20px pink;
+    margin-top: 50px;
+    margin-left: 40%;
+    transition-timing-function: linear;
+    transition-duration: 200ms;
+}
+.card1:hover{
+    margin-top: 20px;
+    margin-left: 37%;
+}
+.card2{
+    background-color: pink;
+    height: 360px;
+    width: 300px;
+    text-align: center;
+    color: black;
+    align-items: center;
+    border-radius: 50px;
+    box-shadow: 20px 10px 20px cyan;
+    margin-top: 50px;
+    margin-left: 40%;
+    transition-timing-function: linear;
+    transition-duration: 200ms;
+}
+.card2:hover{
+    margin-top: 20px;
+    margin-left: 37%;
+}
