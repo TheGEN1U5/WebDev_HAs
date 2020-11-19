@@ -1,0 +1,72 @@
+#first{
+    font-family: 'Arvo', serif; 
+                font-size: 15px; color: rgb(248, 52, 85); background-color: black; 
+                margin-left: 50px; margin-right: 50px; align-self: center;
+                padding: 20px; border-radius: 20px; transition-duration: 300ms;
+}
+#first:hover{
+    background-color: rgb(248, 52, 85);
+    color: black;
+}
+#second{
+    font-family: 'Arvo', serif; 
+                font-size: 15px; color: lime; background-color: black; 
+                margin-left: 50px; margin-right: 50px; align-self: center;
+                padding: 20px; border-radius: 20px;
+                transition-duration: 300ms;
+}
+#second:hover{
+    background-color: lime;
+    color: black;
+}
+#third:hover{
+    background-color: yellow;
+    color: black;
+}
+#third{
+    font-family: 'Arvo', serif; 
+    font-size: 15px; color: yellow; background-color: black; 
+    margin-left: 50px; margin-right: 50px; align-self: center;
+    padding: 20px; border-radius: 20px; transition-duration: 300ms;
+}
+#intro{
+    font-family: 'Arvo', serif; 
+    font-size: 15px; color: cyan; background-color: black; 
+    margin-left: 50px; margin-right: 50px; align-self: center;
+    padding: 20px; border-radius: 20px;transition-duration: 300ms;
+}
+#intro:hover{
+    background-color: cyan;
+    color: black;
+}
+.intro1{
+    font-family: 'Arvo', serif; 
+        font-size: 15px; color: yellow; background-color: black; 
+        margin-left: 50px; margin-right: 50px; align-self: center;
+        padding: 20px; border-radius: 20px;
+        transition-duration: 300ms;
+}
+.intro1:hover{
+    background-color: yellow;
+    color: black;
+}
+.main{
+    font-family: 'Arvo', serif; 
+        font-size: 15px; color: cyan; background-color: black; 
+        margin-left: 50px; margin-right: 50px; align-self: center;
+        padding: 20px; border-radius: 20px;transition-duration: 300ms;
+}
+.main:hover{
+    background-color: cyan;
+    color: black;
+}
+.main1{
+    font-family: 'Arvo', serif; 
+        font-size: 15px; color: rgb(248, 52, 85); background-color: black; 
+        margin-left: 50px; margin-right: 50px; align-self: center;
+        padding: 20px; border-radius: 20px;transition-duration: 300ms;
+}
+.main1:hover{
+    background-color: rgb(248, 52, 85);
+    color: black;
+}
