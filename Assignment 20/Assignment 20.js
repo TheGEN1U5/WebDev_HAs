@@ -1,0 +1,5 @@
+let firstname = prompt("Enter your first name:")
+let lastname = prompt("Enter your last name:")
+let age = prompt("Enter your age:")
+console.log("Your full name is" , firstname , lastname , ".")
+console.log("You are" , age, "years old.")
