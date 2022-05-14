@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+}
+.form input:in-range{
+    background-color: chartreuse;
+}
+.form input:out-of-range{
+    background-color: red;
+}
+.form input:in-range + label::after{
+    content: 'Yayy! Guessed it correct'; 
+}
+.form input:out-of-range + label::after{
+    content: 'Oh No! wrong guess!';
+}
+.p1{
+    font-family: cursive;
+    color: orange;
+}
+.p3{
+    color: green;
+    font-weight: 600;
+}
+.p4{
+    font-size: larger;
+}
+.p5{
+    color: red;
+    background-color: chartreuse;
+    font-weight: 600;
+}
+.p6{
+    color: purple;
+}

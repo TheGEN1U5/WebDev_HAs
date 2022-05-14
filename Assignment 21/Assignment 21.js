@@ -1,0 +1,11 @@
+var ageY = prompt("What is your age?");
+var ageD = ageY*365;
+alert(ageY + " years is approximately " + ageD + " days");
+var l = prompt("Enter the length of the rectangle:");
+var b = prompt("Enter the breadth of the rectangle:");
+var areaRect = l*b;
+alert("Area of the rectangle is "+areaRect);
+var h = prompt("Enter the height of the triangle: ");
+var base = prompt("Enter the base of the triangle: ");
+var areaTri = (h*base)/2;
+alert("The area of the triangle is " + areaTri);
