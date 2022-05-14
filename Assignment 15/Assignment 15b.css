@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     font-family: cursive;
     font-size: larger;
@@ -15,4 +16,23 @@ a:visited{
     border-radius: 20%;
     border-width: 10px;
     border-style: double;
+=======
+body{
+    font-family: cursive;
+    font-size: larger;
+}
+a:visited{
+    color: blue;
+}
+.thank{
+    background-color: antiquewhite;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 2%;
+    padding-top: 1%;
+    border-color: red;
+    border-radius: 20%;
+    border-width: 10px;
+    border-style: double;
+>>>>>>> a85bdb21b8b72cbc5eed9b08e7ea78a003bb57aa
 }
